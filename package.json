@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "environment-variables",
+  "description": "environment-variables",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
